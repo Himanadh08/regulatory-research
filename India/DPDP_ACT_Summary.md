@@ -1,6 +1,7 @@
 # Digital Personal Data Protection Act 2023 — Summary & GRC Analysis
 
 **Prepared by:** Himanadh Sesha Sai. Inampudi 
+
 **Date:** July 2026  
 **Purpose:** Professional portfolio artifact — GRC knowledge documentation  
 **Status:** Active study note — updated as implementation progresses
