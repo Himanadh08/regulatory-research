@@ -4,9 +4,14 @@
 **Date:** 10 september 2026  
 **Purpose:** Professional portfolio artifact — GRC knowledge documentation  
 **Status:** Active study note — updated as implementation progresses  
-**Connect:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
-  https://www.linkedin.com/in/himanadh-sesha-sai-inampudi-410b88316?utm_source=share_via&utm_content=profile&utm_medium=member_android
-| [YOUR GITHUB URL]
+**Connect:** 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+
+https://www.linkedin.com/in/himanadh-sesha-sai-inampudi-410b88316?utm_source=share_via&utm_content=profile&utm_medium=member_android
+| 
+
+[YOUR GITHUB URL]
+
 https://github.com/Himanadh08
 
 ---
