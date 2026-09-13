@@ -10,7 +10,7 @@
 https://www.linkedin.com/in/himanadh-sesha-sai-inampudi-410b88316?utm_source=share_via&utm_content=profile&utm_medium=member_android
 | 
 
-[YOUR GITHUB URL]
+[GITHUB URL]
 
 https://github.com/Himanadh08
 
@@ -320,6 +320,6 @@ Even one sentence is fine.
 
 ---
 
-*Last updated: July 2026*  
-*Author: [YOUR NAME] — Cybersecurity GRC Student, Uttaranchal University*  
+*Last updated: 10 September  2026*  
+*Author: Himanadh Sesha Sai. Inampudi  — Cybersecurity GRC Student, Uttaranchal University*  
 *Specialisation: GRC · AI Risk Compliance · Penetration Testing Fundamentals*
