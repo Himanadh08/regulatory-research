@@ -20,37 +20,38 @@ Each summary is written to be useful for:
 ---
 
 ## Repository Structure
+
+```
 regulatory-research/
 │
 ├── 📁 India/
-│ ├── DPDP_ACT_Summary.md
-│ ├── IT_Act_2000_Summary.md
-│ ├── CERT_In_Directions_2022_Summary.md
-│ ├── RBI_Cybersecurity_Framework_Summary.md
-│ ├── RBI_Digital_Payment_Security_Summary.md
-│ ├── SEBI_Cybersecurity_Framework_Summary.md
-│ ├── IRDAI_Cybersecurity_Guidelines_Summary.md
-│ ├── NCIIPC_CII_Protection_Overview.md
-│ └── India_Cyber_Regulatory_Landscape.md
+│   ├── DPDP_ACT_Summary.md
+│   ├── IT_Act_2000_Summary.md
+│   ├── CERT_In_Directions_2022_Summary.md
+│   ├── RBI_Cybersecurity_Framework_Summary.md
+│   ├── RBI_Digital_Payment_Security_Summary.md
+│   ├── SEBI_Cybersecurity_Framework_Summary.md
+│   ├── IRDAI_Cybersecurity_Guidelines_Summary.md
+│   ├── NCIIPC_CII_Protection_Overview.md
+│   └── India_Cyber_Regulatory_Landscape.md
 │
 ├── 📁 global/
-│ ├── DORA_EU_Summary.md
-│ ├── EU_AI_Act_Overview.md
-│ ├── GDPR_vs_DPDP_vs_CCPA.md
-│ ├── IEC_62443_Overview.md
-│ ├── NIST_AI_RMF_Notes.md
-│ └── NIST_CSF_2.0_Notes.md
+│   ├── DORA_EU_Summary.md
+│   ├── EU_AI_Act_Overview.md
+│   ├── GDPR_vs_DPDP_vs_CCPA.md
+│   ├── IEC_62443_Overview.md
+│   ├── NIST_AI_RMF_Notes.md
+│   └── NIST_CSF_2.0_Notes.md
 │
 ├── 📁 sector-specific/
-│ ├── Aviation_Cyber_Overview.md
-│ ├── Healthcare_GRC_Overview.md
-│ └── Maritime_Cyber_Overview.md
+│   ├── Aviation_Cyber_Overview.md
+│   ├── Healthcare_GRC_Overview.md
+│   └── Maritime_Cyber_Overview.md
 │
 └── 📁 comparisons/
-├── DORA_vs_RBI_Comparison.md
-└── ISO27001_vs_SOC2_vs_NISTCSF.md
-
----
+    ├── DORA_vs_RBI_Comparison.md
+    └── ISO27001_vs_SOC2_vs_NISTCSF.md
+```
 
 ## 🇮🇳 India Regulations
 
